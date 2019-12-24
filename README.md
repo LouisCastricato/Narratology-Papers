@@ -25,7 +25,7 @@ Based off of the popular [GNNPapers](https://github.com/thunlp/GNNPapers/blob/ma
 <tr><td colspan="2"><a href="#theory">3. Theory</a></td></tr>
 <tr>
     <td>&emsp;<a href="#interactive-narratives">3.1 Interactive Narratives</a></td>
-    <td>&emsp;<a href="#education">3.1 Education</a></td>
+    <td>&emsp;<a href="#education">3.2 Education</a></td>
 </tr>
 </table>
 
@@ -115,7 +115,12 @@ AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/170
 arxiv 2018. [paper](https://arxiv.org/abs/1805.04833)
 
    *Angela Fan, Mike Lewis, Yann Dauphin*
-  
+   
+6. **Toward Automated Quest Generation in Text-Adventure Games** 
+arxiv 2019. [paper](https://arxiv.org/abs/1909.06283)
+
+   *Prithviraj Ammanabrolu, William Broniec, Alex Mueller, Jeremy Paul, Mark O. Riedl*
+   
 ### [Explainability](#content)
   
 1. **On Design and Evaluation of Human-centered Explainable AI systems.**
@@ -145,9 +150,26 @@ AAAI 2018. [paper](https://arxiv.org/abs/1809.09419)
 
    *Jeff Orkin, Deb Roy*
    
+### [Visual Storytelling](#content)
+
+1. **Visual Storytelling** arxiv 2016.
+[paper](https://arxiv.org/abs/1604.03968)
+
+   *Ting-Hao (Kenneth)Huang, Francis Ferraro, Nasrin Mostafazadeh, Ishan Misra, Aishwarya Agrawal, Jacob Devlin, Ross Girshick, Xiaodong He, Pushmeet Kohli, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, Lucy Vanderwende, Michel Galley, Margaret Mitchell*
+   
+2. **Knowledge-Enriched Visual Storytelling** arxiv 2019.
+[paper](https://arxiv.org/abs/1912.01496)
+
+   *Chao-Chun Hsu, Zi-Yuan Chen, Chi-Yang Hsu, Chih-Chia Li, Tzu-Yuan Lin, Ting-Hao 'Kenneth' Huang, Lun-Wei Ku*   
+   
+3. **Visual Story Post-Editing** arxiv 2019.
+[paper](https://arxiv.org/abs/1906.01764)
+
+   *Ting-Yao Hsu, Chieh-Yang Huang, Yen-Chia Hsu, Ting-Hao 'Kenneth' Huang*
+   
 ## [Theory](#content)
 
-### [Visual Storytelling](#content)
+### [Interactive Narratives](#content)
 
 1. **Interactive Digital Narrative: History, Theory and Practice** academia.edu N/A.
 [paper](https://www.academia.edu/11659325/Interactive_Digital_Narrative_History_Theory_and_Practice)
