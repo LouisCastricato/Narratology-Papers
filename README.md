@@ -134,7 +134,11 @@ AAAI 2018. [paper](https://arxiv.org/abs/1811.03423)
 
     *Eger M and Mathewson KW*
        
-   
+9. **Creative Help: A Story Writing Assistant** 
+ICIDS 2015. [paper](https://link.springer.com/chapter/10.1007/978-3-319-27036-4_8)
+
+    *Melissa Roemmele and Andrew S. Gordon*
+          
 ### [Explainability](#content)
   
 1. **On Design and Evaluation of Human-centered Explainable AI systems.**
@@ -223,3 +227,9 @@ AAAI 2018. [paper](https://arxiv.org/abs/1809.09419)
 [paper](https://arxiv.org/abs/1901.11528)
 
    *Kory W. Mathewson, Pablo Samuel Castro, Colin Cherry, George Foster, Marc G. Bellemare*
+   
+5. **Evaluating Story Generation Systems Using Automated Linguistic Analyses** KDD 2017.
+[paper](https://roemmele.github.io/publications/fiction_generation.pdf)
+
+   *Melissa Roemmele, Andrew S. Gordon, and Reid Swanson*
+
