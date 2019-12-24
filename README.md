@@ -74,7 +74,12 @@ ICLR 2018. [paper](https://openreview.net/forum?id=B1-tVX1Pz)
 7. **The Text-Based Adventure AI Competition**
 IEEE 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8629315)
     
-    *Timothy Atkinson et al.*
+    *Timothy Atkinson, Hendrik Baier, Tara copplestone, Sam Devlin, Jerry Swan*
+    
+8. **Learning to Speak and Act in a Fantasy Text Adventure Game**
+arxiv 2019. [paper](https://arxiv.org/abs/1903.03094)
+
+   *Jack Urbanek, Angela Fan, Siddharth Karamcheti, Saachi Jain, Samuel Humeau, Emily Dinan, Tim Rocktäschel, Douwe Kiela, Arthur Szlam, Jason Weston*
     
 ### [Story Generation](#content)    
    
