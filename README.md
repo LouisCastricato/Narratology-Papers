@@ -25,6 +25,7 @@ Based off of the popular [GNNPapers](https://github.com/thunlp/GNNPapers/blob/ma
 <tr><td colspan="2"><a href="#theory">3. Theory</a></td></tr>
 <tr>
     <td>&emsp;<a href="#interactive-narratives">3.1 Interactive Narratives</a></td>
+    <td>&emsp;<a href="#education">3.1 Education</a></td>
 </tr>
 </table>
 
