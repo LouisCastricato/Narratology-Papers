@@ -19,7 +19,7 @@ Based off of the popular [GNNPapers](https://github.com/thunlp/GNNPapers/blob/ma
     <td>&ensp;<a href="#narrative-data-mining">2.4 Narrative Data Mining</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#annotations">2.5 Annotations</a></td>
+    <td>&emsp;<a href="#visual-storytelling">2.5 Visual Storytelling</a></td>
     <td></td>
 </tr>
 </table>
@@ -142,3 +142,15 @@ AAAI 2018. [paper](https://arxiv.org/abs/1809.09419)
 [paper](https://dl.acm.org/citation.cfm?id=3014640)
 
    *Jeff Orkin, Deb Roy*
+   
+### [Visual Storytelling](#content)
+
+1. **Visual Storytelling** arxiv 2016.
+[paper](https://arxiv.org/abs/1604.03968)
+
+   *Ting-Hao (Kenneth)Huang, Francis Ferraro, Nasrin Mostafazadeh, Ishan Misra, Aishwarya Agrawal, Jacob Devlin, Ross Girshick, Xiaodong He, Pushmeet Kohli, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, Lucy Vanderwende, Michel Galley, Margaret Mitchell*
+   
+2. **Visual Story Post-Editing** arxiv 2019.
+[paper](https://arxiv.org/abs/1906.01764)
+
+   *Ting-Yao Hsu, Chieh-Yang Huang, Yen-Chia Hsu, Ting-Hao 'Kenneth' Huang*
