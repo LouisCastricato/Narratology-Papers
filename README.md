@@ -22,6 +22,10 @@ Based off of the popular [GNNPapers](https://github.com/thunlp/GNNPapers/blob/ma
     <td>&emsp;<a href="#visual-storytelling">2.5 Visual Storytelling</a></td>
     <td></td>
 </tr>
+<tr><td colspan="2"><a href="#theory">3. Theory</a></td></tr>
+<tr>
+    <td>&emsp;<a href="#interactive-narratives">3.1 Interactive Narratives</a></td>
+</tr>
 </table>
 
 ## [Famous Papers](#content)
@@ -111,9 +115,6 @@ arxiv 2018. [paper](https://arxiv.org/abs/1805.04833)
 
    *Angela Fan, Mike Lewis, Yann Dauphin*
   
-
-  
-  
 ### [Explainability](#content)
   
 1. **On Design and Evaluation of Human-centered Explainable AI systems.**
@@ -143,14 +144,23 @@ AAAI 2018. [paper](https://arxiv.org/abs/1809.09419)
 
    *Jeff Orkin, Deb Roy*
    
+## [Theory](#content)
+
 ### [Visual Storytelling](#content)
 
-1. **Visual Storytelling** arxiv 2016.
-[paper](https://arxiv.org/abs/1604.03968)
+1. **Interactive Digital Narrative: History, Theory and Practice** academia.edu N/A.
+[paper](https://www.academia.edu/11659325/Interactive_Digital_Narrative_History_Theory_and_Practice)
 
-   *Ting-Hao (Kenneth)Huang, Francis Ferraro, Nasrin Mostafazadeh, Ishan Misra, Aishwarya Agrawal, Jacob Devlin, Ross Girshick, Xiaodong He, Pushmeet Kohli, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, Lucy Vanderwende, Michel Galley, Margaret Mitchell*
+   *Hartmut Koenitz, Tonguc Sezen, Mads Haahr, and Diğdem Sezen*
    
-2. **Visual Story Post-Editing** arxiv 2019.
-[paper](https://arxiv.org/abs/1906.01764)
+2. **Narrative in Video Games** academia.edu 2018.
+[paper](https://www.academia.edu/35923728/Narrative_in_Video_Games)
 
-   *Ting-Yao Hsu, Chieh-Yang Huang, Yen-Chia Hsu, Ting-Hao 'Kenneth' Huang*
+   *Hartmut Koenitz*
+   
+### [Education](#content)
+   
+1. **Challenges of IDN Research and Teaching** ICIDS 2019.
+[paper](https://link.springer.com/chapter/10.1007/978-3-030-33894-7_4)
+
+   *Hartmut Koenitz, Mirjam Palosaari Eladhari*
