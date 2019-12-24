@@ -27,6 +27,9 @@ Based off of the popular [GNNPapers](https://github.com/thunlp/GNNPapers/blob/ma
     <td>&emsp;<a href="#interactive-narratives">3.1 Interactive Narratives</a></td>
     <td>&emsp;<a href="#education">3.2 Education</a></td>
 </tr>
+<tr>
+    <td>&emsp;<a href="#analysis">3.3 Analysis</a></td>
+</tr>
 </table>
 
 ## [Famous Papers](#content)
@@ -121,6 +124,17 @@ arxiv 2019. [paper](https://arxiv.org/abs/1909.06283)
 
    *Prithviraj Ammanabrolu, William Broniec, Alex Mueller, Jeremy Paul, Mark O. Riedl*
    
+7. **Toward Automated Story Generation with Markov Chain Monte Carlo Methods and Deep Neural Networks** 
+INT 2017. [paper](http://www.cc.gatech.edu/~riedl/pubs/int17.pdf)
+
+   *Brent Harrison, Christopher Purdy, and Mark O. Riedl*
+    
+8. **dAIrector: Automatic Story Beat Generation through Knowledge Synthesis** 
+AAAI 2018. [paper](https://arxiv.org/abs/1811.03423)
+
+    *Eger M and Mathewson KW*
+       
+   
 ### [Explainability](#content)
   
 1. **On Design and Evaluation of Human-centered Explainable AI systems.**
@@ -187,3 +201,25 @@ AAAI 2018. [paper](https://arxiv.org/abs/1809.09419)
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-33894-7_4)
 
    *Hartmut Koenitz, Mirjam Palosaari Eladhari*
+   
+### [Analysis](#content)
+   
+1. **Reading Between the Lines: Using Plot Graphs to Draw Inferences From Stories** ICIDS 2016.
+[paper](https://link.springer.com/chapter/10.1007/978-3-319-48279-8_18)
+
+   *Christopher Purdy. Mark O. Riedl*
+   
+2. **Predicting Generated Story Quality with Quantitative Measures** AAAI 2016.
+[paper](http://www.cc.gatech.edu/~riedl/pubs/purdy-aiide18.pdf)
+
+   *Christopher Purdy, Xinyu Wang, Larry He, and Mark Riedl*
+   
+3. **Evaluating Coherence in Dialogue Systems using Entailment** arxiv 2019.
+[paper](https://arxiv.org/abs/1904.03371)
+
+   *Nouha Dziri, Ehsan Kamalloo, Kory W. Mathewson, Osmar Zaiane*
+   
+4. **Shaping the Narrative Arc: An Information-Theoretic Approach to Collaborative Dialogue** arxiv 2019.
+[paper](https://arxiv.org/abs/1901.11528)
+
+   *Kory W. Mathewson, Pablo Samuel Castro, Colin Cherry, George Foster, Marc G. Bellemare*
