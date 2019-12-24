@@ -8,20 +8,29 @@ Based off of the popular [GNNPapers](https://github.com/thunlp/GNNPapers/blob/ma
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#models">1. Models</a></td></tr>
+<tr><td colspan="2"><a href="#famous-papers">1. Famous Papers</a></td></tr>
+<tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#text-adventures">1.1 Text Adventures</a></td>
-    <td>&ensp;<a href="#story-generation">1.2 Story Generation</a></td>
+    <td>&emsp;<a href="#text-adventures">2.1 Text Adventures</a></td>
+    <td>&ensp;<a href="#story-generation">2.2 Story Generation</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#explainability">1.3 Explainability</a></td>
-    <td>&ensp;<a href="#analysis">1.4 Analysis</a></td>
+    <td>&emsp;<a href="#explainability">2.3 Explainability</a></td>
+    <td>&ensp;<a href="#narrative-data-mining">2.4 Narrative Data Mining</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#efficiency">1.5 Efficiency</a></td>
+    <td>&emsp;<a href="#annotations">2.5 Annotations</a></td>
     <td></td>
 </tr>
 </table>
+
+## [Famous Papers](#content)
+
+1. **Narrative Intelligence** 
+AAAI 1999. [paper](https://www.aaai.org/Papers/Symposia/Fall/1999/FS-99-01/FS99-01-001.pdf)
+
+   *Michael Mateas and Phoebe Sengers*
+  
 
 ## [Models](#content)
 
@@ -90,6 +99,15 @@ ACL 2019. [paper](https://www.aclweb.org/anthology/W19-3405/)
 AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17046/15769)
 
    *Lara J. Martin, Prithviraj Ammanabrolu, Xinyu Wang, William Hancock, Shruti Singh, Brent Harrison, Mark O. Riedl*
+   
+
+5. **Hierarchical Neural Story Generation** 
+arxiv 2018. [paper](https://arxiv.org/abs/1805.04833)
+
+   *Angela Fan, Mike Lewis, Yann Dauphin*
+  
+
+  
   
 ### [Explainability](#content)
   
@@ -107,3 +125,15 @@ ACM 2019. [paper](https://arxiv.org/abs/1901.03729)
 AAAI 2018. [paper](https://arxiv.org/abs/1809.09419)
 
    *Matthew Guzdial, Joshua Reno, Jonathan Chen, Gillian Smith, Mark Riedl*    
+
+### [Narrative Data Mining](#content)
+
+1. **A Semi-automatic Method for Efficient Detection of Stories on Social Media** arxiv 2016.
+[paper](https://arxiv.org/abs/1605.05134)
+
+   *Soroush Vosoughi, Deb Roy*
+   
+2. **Understanding speech in interactive narratives with crowdsourced data** ACM 2012.
+[paper](https://dl.acm.org/citation.cfm?id=3014640)
+
+   *Jeff Orkin, Deb Roy*
