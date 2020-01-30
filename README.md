@@ -32,14 +32,20 @@ Based off of the popular [GNNPapers](https://github.com/thunlp/GNNPapers/blob/ma
 </tr>
 </table>
 
-## [Famous Papers](#content)
+## [Famous Papers](#content) 
+
+This section is by nomination ONLY. Please email me at lcastric@edu.uwaterloo.ca to nominate someone. You CANNOT nominate yourself.
 
 1. **Narrative Intelligence** 
 AAAI 1999. [paper](https://www.aaai.org/Papers/Symposia/Fall/1999/FS-99-01/FS99-01-001.pdf)
 
-   *Michael Mateas and Phoebe Sengers*
-  
+    *Michael Mateas and Phoebe Sengers*
+   
+2. **Hamlet on the holodeck: The future of narrative in cyberspace.**
+MIT Press, 2017. [book](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
 
+    *Janet H. Murray*
+    
 ## [Models](#content)
 
 ### [Text Adventures](#content)
