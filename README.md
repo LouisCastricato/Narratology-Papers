@@ -46,6 +46,11 @@ AAAI, 1999. [paper](https://www.aaai.org/Papers/Symposia/Fall/1999/FS-99-01/FS99
 MIT Press, 2017. [book](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
 
     *Janet H. Murray*
+   
+3. **From Game-Story to Cyberdrama.**
+MIT Press, 2017. [book](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
+
+    *Janet H. Murray*
     
 ## [Models](#content)
 
@@ -243,8 +248,13 @@ AAAI, 2018. [paper](https://arxiv.org/abs/1809.09419)
 6. **Sir Gawain and the Green Knight and the Semiotics of Ontology** Semiotica, 1977.
 [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1570242)
 
-   *William Benzon*   
+   *William Benzon*
    
+6. **Narrative sculptures: graph theory, topology and new perspectives in narratology** academia.edu, N/A.
+[paper](https://www.academia.edu/11744670/Narrative_sculptures_graph_theory_topology_and_new_perspectives_in_narratology)
+
+   *Félix Lambert*   
+      
 ### [Foundationalism](#content)
    
 1. **Cognitive Networks and Literary Semantics** MLN, 1976.
