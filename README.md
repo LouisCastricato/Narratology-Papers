@@ -281,3 +281,15 @@ AAAI, 2018. [paper](https://arxiv.org/abs/1809.09419)
 [paper](https://www.academia.edu/35117980/A_Brief_Parallel_Chronology_of_Cognitive_Science_and_Literary_Theory)
 
    *William Benzon*
+   
+6. **A Theoretical Framework to Represent Narrative Structures for Visual Storytelling** Bridges, 2015.
+[paper](https://www.researchgate.net/publication/309833980_A_Theoretical_Framework_to_Represent_Narrative_Structures_for_Visual_Storytelling)
+
+   *Ergun Akleman, Stefano Franchi, Devkan Kaleci, Laura Mandell*
+   
+7. **A CONCEPTUAL FRAMEWORK FOR INTERACTIVE CARTOGRAPHIC STORYTELLING** N/A, 2018.
+[paper](https://library.itc.utwente.nl/papers_2018/msc/gfm/LandaverdeCortes.pdf)
+
+   *Noe Abraham Landaverde Cortes*   
+
+
