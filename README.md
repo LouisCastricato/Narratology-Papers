@@ -29,7 +29,7 @@ Based off of the popular [GNNPapers](https://github.com/thunlp/GNNPapers/blob/ma
 </tr>
 <tr>
     <td>&emsp;<a href="#analysis">3.3 Analysis</a></td>
-    <td>&emsp;<a href="#analysis">3.4 Foundationalism</a></td>
+    <td>&emsp;<a href="#foundationalism">3.4 Foundationalism</a></td>
 </tr>
 </table>
 
