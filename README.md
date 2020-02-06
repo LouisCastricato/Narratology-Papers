@@ -47,10 +47,6 @@ MIT Press, 2017. [book](https://mitpress.mit.edu/books/hamlet-holodeck-updated-e
 
     *Janet H. Murray*
    
-3. **From Game-Story to Cyberdrama.**
-MIT Press, 2017. [book](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
-
-    *Janet H. Murray*
     
 ## [Models](#content)
 
